@@ -1,0 +1,5 @@
+flask==0.12.2
+flask-restful==0.3.5
+flask-sqlalchemy==2.1
+requests==2.17.3
+structlog==17.2.0
